@@ -1,0 +1,39 @@
+33863 21225 8:16 /rootfs/us-docker.pkg.dev/pantheon-artifacts/internal/cos-runtime-php/60701764cd63295e1db625608a6e7f22e06959baf344f6368825deffcaed4e37 / ro,noatime - ext4 /dev/sdb rw
+33864 33863 8:16 /etc/containers-resolv.conf /etc/resolv.conf ro,noatime - ext4 /dev/sdb rw
+33865 33863 8:16 /etc/containers-hosts /etc/hosts ro,noatime - ext4 /dev/sdb rw
+33866 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/etc/passwd /etc/passwd ro,noatime shared:238 - ext4 /dev/sdb rw
+33867 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/etc/group /etc/group ro,noatime shared:238 - ext4 /dev/sdb rw
+33868 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/code /code rw,noatime shared:238 - ext4 /dev/sdb rw
+33869 33863 0:4792 / /files rw,nosuid,nodev,noexec,relatime master:5182 - fuse.fusedav-release fusedav-release rw,user_id=0,group_id=0,allow_other
+33870 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/tmp /tmp rw,nosuid,nodev,noexec,noatime shared:238 - ext4 /dev/sdb rw
+33871 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/run /shared-run rw,nosuid,nodev,noexec,noatime shared:238 - ext4 /dev/sdb rw
+33872 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/includes /includes ro,noatime shared:238 - ext4 /dev/sdb rw
+33885 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/logs/php /logs/php rw,nosuid,nodev,noexec,noatime shared:238 - ext4 /dev/sdb rw
+33886 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/logs/nginx /logs/nginx ro,noatime shared:238 - ext4 /dev/sdb rw
+33887 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/config/php /config ro,noatime shared:238 - ext4 /dev/sdb rw
+33888 33863 8:16 /rootfs/us-docker.pkg.dev/pantheon-artifacts/internal/cos-composer/3f9534b7cd6d45cab33e01b62919c5d823c76ecd1be580f035de16e37c3af6f0/opt/pantheon/composer /opt/pantheon/composer ro,noatime - ext4 /dev/sdb rw
+33889 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/srv/bindings /srv/bindings ro,noatime shared:238 - ext4 /dev/sdb rw
+33890 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/.gitconfig /.gitconfig ro,noatime shared:238 - ext4 /dev/sdb rw
+33891 33863 8:16 /containers/0cc806d8d66344759fce311d62da42d8/selfcerts /certs ro,noatime shared:238 - ext4 /dev/sdb rw
+33892 33863 8:16 /etc/pki /etc/pki ro,noatime - ext4 /dev/sdb rw
+33893 33863 0:4793 / /proc rw,nosuid,noexec,relatime - proc proc rw
+33894 33863 0:4794 / /dev rw,nosuid - tmpfs tmpfs rw,size=65536k,mode=755
+33895 33894 0:4795 / /dev/pts rw,nosuid,noexec,relatime - devpts devpts rw,gid=5,mode=620,ptmxmode=666
+33896 33863 0:4796 / /sys/fs/cgroup rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,mode=755
+33897 33896 0:27 / /sys/fs/cgroup/systemd ro,nosuid,nodev,noexec,relatime - cgroup systemd rw,xattr,name=systemd
+33898 33896 0:30 / /sys/fs/cgroup/net_cls,net_prio ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,net_cls,net_prio
+33899 33896 0:31 / /sys/fs/cgroup/blkio ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,blkio
+33900 33896 0:32 / /sys/fs/cgroup/rdma ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,rdma
+33901 33896 0:33 / /sys/fs/cgroup/freezer ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,freezer
+33902 33896 0:34 / /sys/fs/cgroup/perf_event ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,perf_event
+33903 33896 0:35 / /sys/fs/cgroup/devices ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,devices
+33904 33896 0:36 / /sys/fs/cgroup/memory ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,memory
+33905 33896 0:37 / /sys/fs/cgroup/cpu,cpuacct ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,cpu,cpuacct
+33906 33896 0:38 / /sys/fs/cgroup/cpuset ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,cpuset
+33907 33896 0:39 / /sys/fs/cgroup/hugetlb ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,hugetlb
+33908 33896 0:40 / /sys/fs/cgroup/pids ro,nosuid,nodev,noexec,relatime - cgroup cgroup rw,pids
+33909 33863 8:16 /rootfs/us-docker.pkg.dev/pantheon-artifacts/internal/cos-wpcli/09f0c749a922e5b6d9d3acada2ac69a49cdf984e5d33eaa43240c10fb8a70f4d/opt/pantheon/wpcli /opt/pantheon/wpcli ro,noatime - ext4 /dev/sdb rw
+33910 33863 0:24 /runc/php-0cc806d8d66344759fce311d62da42d8/notify /run/notify ro,nosuid,nodev,noexec shared:13 - tmpfs tmpfs rw,size=13171004k,nr_inodes=819200,mode=755
+21227 33863 0:4794 /null /usr/bin/perl rw,nosuid - tmpfs tmpfs rw,size=65536k,mode=755
+21229 33863 0:4794 /null /usr/bin/perl5.26.3 rw,nosuid - tmpfs tmpfs rw,size=65536k,mode=755
+21230 33863 0:4794 /null /usr/bin/python2.7 rw,nosuid - tmpfs tmpfs rw,size=65536k,mode=755
