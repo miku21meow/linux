@@ -1,0 +1,2 @@
+IP address       HW type     Flags       HW address            Mask     Device
+172.19.0.1       0x1         0x2         02:56:39:18:a5:01     *        eth0
