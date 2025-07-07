@@ -1,0 +1,6 @@
+pos:	0
+flags:	02
+mnt_id:	15
+ino:	37
+tfd:        6 events:       19 data:          1a470c0  pos:0 ino:ddd2afb sdev:8
+tfd:        8 events: 80000019 data:         1e15f030  pos:0 ino:ddd2afd sdev:8
