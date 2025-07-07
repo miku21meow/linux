@@ -1,0 +1,498 @@
+00400000 default file=/opt/pantheon/php8.1/php-fpm mapped=1763 mapmax=14 N0=1763 kernelpagesize_kB=4
+01915000 default file=/opt/pantheon/php8.1/php-fpm anon=3 dirty=3 mapped=169 mapmax=14 active=153 N0=169 kernelpagesize_kB=4
+01a00000 default file=/opt/pantheon/php8.1/php-fpm anon=15 dirty=15 mapped=20 mapmax=7 active=5 N0=20 kernelpagesize_kB=4
+01a14000 default anon=26 dirty=26 mapmax=2 active=0 N0=26 kernelpagesize_kB=4
+132ed000 default heap anon=904 dirty=904 mapmax=2 active=0 N0=904 kernelpagesize_kB=4
+41a94000 default file=/dev/zero\040(deleted) dirty=1233 mapmax=2 N0=1233 kernelpagesize_kB=4
+7d17d3c00000 default file=/usr/lib64/sasl2/libanonymous.so.3.0.0 mapped=4 mapmax=5 N0=4 kernelpagesize_kB=4
+7d17d3c04000 default file=/usr/lib64/sasl2/libanonymous.so.3.0.0
+7d17d3e03000 default file=/usr/lib64/sasl2/libanonymous.so.3.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d3e04000 default file=/usr/lib64/sasl2/libanonymous.so.3.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d4000000 default file=/usr/lib64/libdb-5.3.so mapped=64 mapmax=5 N0=64 kernelpagesize_kB=4
+7d17d41ba000 default file=/usr/lib64/libdb-5.3.so
+7d17d43b9000 default file=/usr/lib64/libdb-5.3.so anon=10 dirty=10 mapmax=2 active=0 N0=10 kernelpagesize_kB=4
+7d17d43c3000 default file=/usr/lib64/libdb-5.3.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d4400000 default file=/usr/lib64/sasl2/libsasldb.so.3.0.0 mapped=6 mapmax=5 N0=6 kernelpagesize_kB=4
+7d17d4406000 default file=/usr/lib64/sasl2/libsasldb.so.3.0.0
+7d17d4605000 default file=/usr/lib64/sasl2/libsasldb.so.3.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d4606000 default file=/usr/lib64/sasl2/libsasldb.so.3.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d4800000 default file=/usr/lib64/libnss_myhostname.so.2 mapped=100 mapmax=14 N0=100 kernelpagesize_kB=4
+7d17d48a4000 default file=/usr/lib64/libnss_myhostname.so.2
+7d17d4aa4000 default file=/usr/lib64/libnss_myhostname.so.2 anon=7 dirty=7 mapmax=2 active=0 N0=7 kernelpagesize_kB=4
+7d17d4aab000 default file=/usr/lib64/libnss_myhostname.so.2 anon=1 dirty=1 active=0 N0=1 kernelpagesize_kB=4
+7d17d4c00000 default file=/usr/lib64/libnss_dns-2.28.so mapped=5 mapmax=11 N0=5 kernelpagesize_kB=4
+7d17d4c05000 default file=/usr/lib64/libnss_dns-2.28.so
+7d17d4e05000 default file=/usr/lib64/libnss_dns-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d4e06000 default file=/usr/lib64/libnss_dns-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d5000000 default file=/usr/lib64/libnss_files-2.28.so mapped=11 mapmax=16 N0=11 kernelpagesize_kB=4
+7d17d500b000 default file=/usr/lib64/libnss_files-2.28.so
+7d17d520b000 default file=/usr/lib64/libnss_files-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d520c000 default file=/usr/lib64/libnss_files-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17d520d000 default
+7d17d5400000 default file=/dev/zero\040(deleted) dirty=10 mapmax=2 N0=10 kernelpagesize_kB=4
+7d17dd400000 default file=/usr/lib/oracle/21/client64/lib/libclntshcore.so.21.1 mapped=112 mapmax=13 N0=112 kernelpagesize_kB=4
+7d17dd795000 default file=/usr/lib/oracle/21/client64/lib/libclntshcore.so.21.1
+7d17dd994000 default file=/usr/lib/oracle/21/client64/lib/libclntshcore.so.21.1 anon=7 dirty=7 mapmax=2 active=0 N0=7 kernelpagesize_kB=4
+7d17dd99b000 default file=/usr/lib/oracle/21/client64/lib/libclntshcore.so.21.1 anon=5 dirty=5 mapmax=2 active=0 N0=5 kernelpagesize_kB=4
+7d17dd9a0000 default anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17dda00000 default file=/usr/lib64/libaio.so.1.0.1 mapped=2 mapmax=13 N0=2 kernelpagesize_kB=4
+7d17dda02000 default file=/usr/lib64/libaio.so.1.0.1
+7d17ddc01000 default file=/usr/lib64/libaio.so.1.0.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ddc02000 default
+7d17dde00000 default file=/usr/lib/oracle/21/client64/lib/libnnz21.so mapped=140 mapmax=13 N0=140 kernelpagesize_kB=4
+7d17de222000 default file=/usr/lib/oracle/21/client64/lib/libnnz21.so
+7d17de421000 default file=/usr/lib/oracle/21/client64/lib/libnnz21.so anon=54 dirty=54 mapmax=2 active=0 N0=54 kernelpagesize_kB=4
+7d17de457000 default file=/usr/lib/oracle/21/client64/lib/libnnz21.so anon=19 dirty=19 mapped=25 mapmax=7 active=6 N0=25 kernelpagesize_kB=4
+7d17de473000 default
+7d17de600000 default file=/usr/lib/oracle/21/client64/lib/libclntsh.so.21.1 mapped=1022 mapmax=13 active=1019 N0=1022 kernelpagesize_kB=4
+7d17e2650000 default file=/usr/lib/oracle/21/client64/lib/libclntsh.so.21.1
+7d17e284f000 default file=/usr/lib/oracle/21/client64/lib/libclntsh.so.21.1 anon=386 dirty=386 mapmax=2 active=0 N0=386 kernelpagesize_kB=4
+7d17e29d2000 default file=/usr/lib/oracle/21/client64/lib/libclntsh.so.21.1 anon=50 dirty=50 mapmax=2 active=0 N0=50 kernelpagesize_kB=4
+7d17e2a15000 default anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e2c00000 default file=/opt/pantheon/php8.1/oci8.so mapped=37 mapmax=14 N0=37 kernelpagesize_kB=4
+7d17e2c26000 default file=/opt/pantheon/php8.1/oci8.so
+7d17e2e25000 default file=/opt/pantheon/php8.1/oci8.so anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17e2e29000 default file=/opt/pantheon/php8.1/oci8.so anon=1 dirty=1 active=0 N0=1 kernelpagesize_kB=4
+7d17e3000000 default file=/opt/pantheon/php8.1/opcache.so mapped=95 mapmax=14 active=94 N0=95 kernelpagesize_kB=4
+7d17e30e1000 default file=/opt/pantheon/php8.1/opcache.so
+7d17e32e1000 default file=/opt/pantheon/php8.1/opcache.so anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e32e3000 default file=/opt/pantheon/php8.1/opcache.so anon=6 dirty=6 mapped=16 mapmax=7 active=10 N0=16 kernelpagesize_kB=4
+7d17e32f3000 default anon=10 dirty=10 mapmax=2 active=0 N0=10 kernelpagesize_kB=4
+7d17e3400000 default anon=18 dirty=18 active=0 N0=18 kernelpagesize_kB=4
+7d17e3600000 default file=/usr/lib64/libffi.so.6.0.2 mapped=8 mapmax=5 N0=8 kernelpagesize_kB=4
+7d17e3608000 default file=/usr/lib64/libffi.so.6.0.2
+7d17e3807000 default file=/usr/lib64/libffi.so.6.0.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e3808000 default file=/usr/lib64/libffi.so.6.0.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e3a00000 default file=/usr/lib64/libhogweed.so.4.5 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17e3a2f000 default file=/usr/lib64/libhogweed.so.4.5
+7d17e3c2e000 default file=/usr/lib64/libhogweed.so.4.5 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e3c2f000 default
+7d17e3e00000 default file=/usr/lib64/libnettle.so.6.5 mapped=38 mapmax=5 N0=38 kernelpagesize_kB=4
+7d17e3e37000 default file=/usr/lib64/libnettle.so.6.5
+7d17e4037000 default file=/usr/lib64/libnettle.so.6.5 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e4039000 default file=/usr/lib64/libnettle.so.6.5 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e4200000 default file=/usr/lib64/libtasn1.so.6.5.5 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17e4212000 default file=/usr/lib64/libtasn1.so.6.5.5
+7d17e4411000 default file=/usr/lib64/libtasn1.so.6.5.5 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e4412000 default file=/usr/lib64/libtasn1.so.6.5.5 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e4600000 default file=/usr/lib64/libp11-kit.so.0.3.0 mapped=78 mapmax=14 N0=78 kernelpagesize_kB=4
+7d17e4719000 default file=/usr/lib64/libp11-kit.so.0.3.0
+7d17e4918000 default file=/usr/lib64/libp11-kit.so.0.3.0 anon=11 dirty=11 mapmax=2 active=0 N0=11 kernelpagesize_kB=4
+7d17e4923000 default file=/usr/lib64/libp11-kit.so.0.3.0 anon=10 dirty=10 mapmax=2 active=0 N0=10 kernelpagesize_kB=4
+7d17e492d000 default
+7d17e4a00000 default file=/usr/lib64/libpcre.so.1.2.10 mapped=15 mapmax=5 N0=15 kernelpagesize_kB=4
+7d17e4a6f000 default file=/usr/lib64/libpcre.so.1.2.10
+7d17e4c6f000 default file=/usr/lib64/libpcre.so.1.2.10 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e4c70000 default file=/usr/lib64/libpcre.so.1.2.10 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e4e00000 default file=/usr/lib64/libgnutls.so.30.28.2 mapped=269 mapmax=14 N0=269 kernelpagesize_kB=4
+7d17e4fdd000 default file=/usr/lib64/libgnutls.so.30.28.2
+7d17e51dc000 default file=/usr/lib64/libgnutls.so.30.28.2 anon=17 dirty=17 mapmax=2 active=0 N0=17 kernelpagesize_kB=4
+7d17e51ed000 default file=/usr/lib64/libgnutls.so.30.28.2 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e51ef000 default anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e5200000 default file=/usr/lib64/libgraphite2.so.3.0.1 mapped=15 mapmax=5 N0=15 kernelpagesize_kB=4
+7d17e522a000 default file=/usr/lib64/libgraphite2.so.3.0.1
+7d17e5429000 default file=/usr/lib64/libgraphite2.so.3.0.1 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e542b000 default
+7d17e5600000 default file=/usr/lib64/libglib-2.0.so.0.5600.4 mapped=118 mapmax=5 N0=118 kernelpagesize_kB=4
+7d17e5717000 default file=/usr/lib64/libglib-2.0.so.0.5600.4
+7d17e5917000 default file=/usr/lib64/libglib-2.0.so.0.5600.4 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e5918000 default file=/usr/lib64/libglib-2.0.so.0.5600.4 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e5919000 default
+7d17e5a00000 default file=/usr/lib64/libpcre2-8.so.0.7.1 mapped=15 mapmax=7 N0=15 kernelpagesize_kB=4
+7d17e5a83000 default file=/usr/lib64/libpcre2-8.so.0.7.1
+7d17e5c82000 default file=/usr/lib64/libpcre2-8.so.0.7.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e5c83000 default file=/usr/lib64/libpcre2-8.so.0.7.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e5e00000 default file=/usr/lib64/libexpat.so.1.6.7 mapped=15 mapmax=5 N0=15 kernelpagesize_kB=4
+7d17e5e39000 default file=/usr/lib64/libexpat.so.1.6.7
+7d17e6039000 default file=/usr/lib64/libexpat.so.1.6.7 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e603b000 default file=/usr/lib64/libexpat.so.1.6.7 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e6200000 default file=/usr/lib64/libfribidi.so.0.4.0 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17e621b000 default file=/usr/lib64/libfribidi.so.0.4.0
+7d17e641a000 default file=/usr/lib64/libfribidi.so.0.4.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e641b000 default file=/usr/lib64/libfribidi.so.0.4.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e6600000 default file=/usr/lib64/libharfbuzz.so.0.10705.0 mapped=15 mapmax=5 N0=15 kernelpagesize_kB=4
+7d17e66a2000 default file=/usr/lib64/libharfbuzz.so.0.10705.0
+7d17e68a1000 default file=/usr/lib64/libharfbuzz.so.0.10705.0 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e68a3000 default file=/usr/lib64/libharfbuzz.so.0.10705.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e6a00000 default file=/usr/lib64/libXau.so.6.0.0 mapped=3 mapmax=5 N0=3 kernelpagesize_kB=4
+7d17e6a03000 default file=/usr/lib64/libXau.so.6.0.0
+7d17e6c02000 default file=/usr/lib64/libXau.so.6.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e6c03000 default
+7d17e6e00000 default file=/usr/lib64/libselinux.so.1 mapped=37 mapmax=7 N0=37 kernelpagesize_kB=4
+7d17e6e27000 default file=/usr/lib64/libselinux.so.1
+7d17e7027000 default file=/usr/lib64/libselinux.so.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e7028000 default file=/usr/lib64/libselinux.so.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e7029000 default anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e7200000 default file=/usr/lib64/libuuid.so.1.3.0 mapped=7 mapmax=5 N0=7 kernelpagesize_kB=4
+7d17e7207000 default file=/usr/lib64/libuuid.so.1.3.0
+7d17e7406000 default file=/usr/lib64/libuuid.so.1.3.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e7407000 default
+7d17e7600000 default file=/usr/lib64/libblkid.so.1.1.0 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17e764d000 default file=/usr/lib64/libblkid.so.1.1.0
+7d17e784c000 default file=/usr/lib64/libblkid.so.1.1.0 anon=5 dirty=5 mapmax=2 active=0 N0=5 kernelpagesize_kB=4
+7d17e7851000 default file=/usr/lib64/libblkid.so.1.1.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e7852000 default
+7d17e7a00000 default file=/usr/lib64/libcap-ng.so.0.0.0 mapped=5 mapmax=14 N0=5 kernelpagesize_kB=4
+7d17e7a05000 default file=/usr/lib64/libcap-ng.so.0.0.0
+7d17e7c04000 default file=/usr/lib64/libcap-ng.so.0.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e7c05000 default anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e7e00000 default file=/usr/lib64/libbrotlicommon.so.1.0.6 mapped=16 mapmax=6 N0=16 kernelpagesize_kB=4
+7d17e7e1f000 default file=/usr/lib64/libbrotlicommon.so.1.0.6
+7d17e801f000 default file=/usr/lib64/libbrotlicommon.so.1.0.6 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e8020000 default file=/usr/lib64/libbrotlicommon.so.1.0.6 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e8200000 default file=/usr/lib64/libunistring.so.2.1.0 mapped=30 mapmax=5 N0=30 kernelpagesize_kB=4
+7d17e837d000 default file=/usr/lib64/libunistring.so.2.1.0
+7d17e857c000 default file=/usr/lib64/libunistring.so.2.1.0 anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17e8580000 default file=/usr/lib64/libunistring.so.2.1.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e8600000 default file=/usr/lib64/libgomp.so.1.0.0 mapped=47 mapmax=14 N0=47 kernelpagesize_kB=4
+7d17e8637000 default file=/usr/lib64/libgomp.so.1.0.0
+7d17e8836000 default file=/usr/lib64/libgomp.so.1.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e8837000 default file=/usr/lib64/libgomp.so.1.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e8a00000 default file=/usr/lib64/libICE.so.6.3.0 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17e8a18000 default file=/usr/lib64/libICE.so.6.3.0
+7d17e8c18000 default file=/usr/lib64/libICE.so.6.3.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e8c19000 default file=/usr/lib64/libICE.so.6.3.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e8c1a000 default
+7d17e8e00000 default file=/usr/lib64/libSM.so.6.0.1 mapped=7 mapmax=5 N0=7 kernelpagesize_kB=4
+7d17e8e07000 default file=/usr/lib64/libSM.so.6.0.1
+7d17e9007000 default file=/usr/lib64/libSM.so.6.0.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e9008000 default file=/usr/lib64/libSM.so.6.0.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e9200000 default file=/usr/lib64/libXt.so.6.0.0 mapped=31 mapmax=5 N0=31 kernelpagesize_kB=4
+7d17e9264000 default file=/usr/lib64/libXt.so.6.0.0
+7d17e9464000 default file=/usr/lib64/libXt.so.6.0.0 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e9466000 default file=/usr/lib64/libXt.so.6.0.0 anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17e946a000 default
+7d17e9600000 default file=/usr/lib64/libXext.so.6.4.0 mapped=15 mapmax=5 N0=15 kernelpagesize_kB=4
+7d17e9611000 default file=/usr/lib64/libXext.so.6.4.0
+7d17e9811000 default file=/usr/lib64/libXext.so.6.4.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e9812000 default file=/usr/lib64/libXext.so.6.4.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e9a00000 default file=/usr/lib64/libfontconfig.so.1.12.0 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17e9a43000 default file=/usr/lib64/libfontconfig.so.1.12.0
+7d17e9c42000 default file=/usr/lib64/libfontconfig.so.1.12.0 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17e9c44000 default file=/usr/lib64/libfontconfig.so.1.12.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17e9e00000 default file=/usr/lib64/libraqm.so.0.700.0 mapped=4 mapmax=5 N0=4 kernelpagesize_kB=4
+7d17e9e04000 default file=/usr/lib64/libraqm.so.0.700.0
+7d17ea003000 default file=/usr/lib64/libraqm.so.0.700.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ea004000 default
+7d17ea200000 default file=/usr/lib64/liblcms2.so.2.0.8 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17ea257000 default file=/usr/lib64/liblcms2.so.2.0.8
+7d17ea457000 default file=/usr/lib64/liblcms2.so.2.0.8 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17ea459000 default file=/usr/lib64/liblcms2.so.2.0.8 anon=3 dirty=3 mapmax=2 active=0 N0=3 kernelpagesize_kB=4
+7d17ea45c000 default
+7d17ea600000 default file=/usr/lib64/libxcb.so.1.1.0 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17ea628000 default file=/usr/lib64/libxcb.so.1.1.0
+7d17ea827000 default file=/usr/lib64/libxcb.so.1.1.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ea828000 default file=/usr/lib64/libxcb.so.1.1.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17eaa00000 default file=/usr/lib64/libaom.so.3.6.1 mapped=28 mapmax=5 N0=28 kernelpagesize_kB=4
+7d17eaf3b000 default file=/usr/lib64/libaom.so.3.6.1
+7d17eb13a000 default file=/usr/lib64/libaom.so.3.6.1 anon=16 dirty=16 mapmax=2 active=0 N0=16 kernelpagesize_kB=4
+7d17eb14a000 default file=/usr/lib64/libaom.so.3.6.1 anon=2 dirty=2 mapped=7 mapmax=7 active=5 N0=7 kernelpagesize_kB=4
+7d17eb151000 default
+7d17eb200000 default file=/usr/lib64/libSvtAv1Enc.so.0.8.7 mapped=32 mapmax=5 N0=32 kernelpagesize_kB=4
+7d17eb5c7000 default file=/usr/lib64/libSvtAv1Enc.so.0.8.7
+7d17eb7c7000 default file=/usr/lib64/libSvtAv1Enc.so.0.8.7 anon=8 dirty=8 mapmax=2 active=0 N0=8 kernelpagesize_kB=4
+7d17eb7cf000 default file=/usr/lib64/libSvtAv1Enc.so.0.8.7 anon=3 dirty=3 mapped=9 mapmax=7 active=1 N0=9 kernelpagesize_kB=4
+7d17eb7d8000 default
+7d17ec400000 default file=/usr/lib64/libdav1d.so.3.1.0 mapped=15 mapmax=5 N0=15 kernelpagesize_kB=4
+7d17ec4d8000 default file=/usr/lib64/libdav1d.so.3.1.0
+7d17ec6d8000 default file=/usr/lib64/libdav1d.so.3.1.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ec6d9000 default file=/usr/lib64/libdav1d.so.3.1.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ec6da000 default
+7d17ec800000 default file=/usr/lib64/libkeyutils.so.1.6 mapped=3 mapmax=5 N0=3 kernelpagesize_kB=4
+7d17ec803000 default file=/usr/lib64/libkeyutils.so.1.6
+7d17eca02000 default file=/usr/lib64/libkeyutils.so.1.6 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17eca03000 default
+7d17ecc00000 default file=/usr/lib64/libkrb5support.so.0.1 mapped=14 mapmax=5 N0=14 kernelpagesize_kB=4
+7d17ecc0f000 default file=/usr/lib64/libkrb5support.so.0.1
+7d17ece0f000 default file=/usr/lib64/libkrb5support.so.0.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ece10000 default file=/usr/lib64/libkrb5support.so.0.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ed000000 default file=/usr/lib64/libmount.so.1.1.0 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17ed056000 default file=/usr/lib64/libmount.so.1.1.0
+7d17ed255000 default file=/usr/lib64/libmount.so.1.1.0 anon=3 dirty=3 mapmax=2 active=0 N0=3 kernelpagesize_kB=4
+7d17ed258000 default file=/usr/lib64/libmount.so.1.1.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ed259000 default
+7d17ed400000 default file=/usr/lib64/libcap.so.2.48 mapped=7 mapmax=6 N0=7 kernelpagesize_kB=4
+7d17ed407000 default file=/usr/lib64/libcap.so.2.48
+7d17ed606000 default file=/usr/lib64/libcap.so.2.48 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ed607000 default file=/usr/lib64/libcap.so.2.48 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ed800000 default file=/usr/lib64/liblz4.so.1.8.3 mapped=15 mapmax=5 N0=15 kernelpagesize_kB=4
+7d17ed81c000 default file=/usr/lib64/liblz4.so.1.8.3
+7d17eda1b000 default file=/usr/lib64/liblz4.so.1.8.3 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17eda1c000 default
+7d17edc00000 default file=/usr/lib64/liblzma.so.5.2.4 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17edc25000 default file=/usr/lib64/liblzma.so.5.2.4
+7d17ede25000 default file=/usr/lib64/liblzma.so.5.2.4 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ede26000 default
+7d17ee000000 default file=/usr/lib64/libaudit.so.1.0.0 mapped=16 mapmax=5 N0=16 kernelpagesize_kB=4
+7d17ee020000 default file=/usr/lib64/libaudit.so.1.0.0
+7d17ee21f000 default file=/usr/lib64/libaudit.so.1.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ee220000 default file=/usr/lib64/libaudit.so.1.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ee221000 default
+7d17ee400000 default file=/usr/lib64/libbrotlidec.so.1.0.6 mapped=11 mapmax=6 N0=11 kernelpagesize_kB=4
+7d17ee40b000 default file=/usr/lib64/libbrotlidec.so.1.0.6
+7d17ee60b000 default file=/usr/lib64/libbrotlidec.so.1.0.6 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ee60c000 default
+7d17ee800000 default file=/usr/lib64/libpsl.so.5.3.1 mapped=12 mapmax=5 N0=12 kernelpagesize_kB=4
+7d17ee810000 default file=/usr/lib64/libpsl.so.5.3.1
+7d17eea0f000 default file=/usr/lib64/libpsl.so.5.3.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17eea10000 default
+7d17eec00000 default file=/usr/lib64/libssh.so.4.8.7 mapped=95 mapmax=5 N0=95 kernelpagesize_kB=4
+7d17eec6d000 default file=/usr/lib64/libssh.so.4.8.7
+7d17eee6c000 default file=/usr/lib64/libssh.so.4.8.7 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17eee6e000 default file=/usr/lib64/libssh.so.4.8.7 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17ef000000 default file=/usr/lib64/libidn2.so.0.3.6 mapped=15 mapmax=10 N0=15 kernelpagesize_kB=4
+7d17ef01c000 default file=/usr/lib64/libidn2.so.0.3.6
+7d17ef21c000 default file=/usr/lib64/libidn2.so.0.3.6 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ef21d000 default
+7d17ef400000 default file=/usr/lib64/libnghttp2.so.14.17.0 mapped=32 mapmax=5 N0=32 kernelpagesize_kB=4
+7d17ef425000 default file=/usr/lib64/libnghttp2.so.14.17.0
+7d17ef624000 default file=/usr/lib64/libnghttp2.so.14.17.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ef625000 default file=/usr/lib64/libnghttp2.so.14.17.0 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17ef800000 default file=/usr/lib64/libldap_r-2.4.so.2.10.9 mapped=31 mapmax=5 N0=31 kernelpagesize_kB=4
+7d17ef853000 default file=/usr/lib64/libldap_r-2.4.so.2.10.9
+7d17efa53000 default file=/usr/lib64/libldap_r-2.4.so.2.10.9 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17efa55000 default file=/usr/lib64/libldap_r-2.4.so.2.10.9 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17efa56000 default
+7d17efc00000 default file=/usr/lib64/libc-2.28.so mapped=393 mapmax=17 N0=393 kernelpagesize_kB=4
+7d17efdcd000 default file=/usr/lib64/libc-2.28.so
+7d17effcc000 default file=/usr/lib64/libc-2.28.so anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17effd0000 default file=/usr/lib64/libc-2.28.so anon=2 dirty=2 active=0 N0=2 kernelpagesize_kB=4
+7d17effd2000 default anon=4 dirty=4 active=0 N0=4 kernelpagesize_kB=4
+7d17f0000000 default file=/usr/lib64/libgcc_s-8-20210514.so.1 mapped=22 mapmax=14 N0=22 kernelpagesize_kB=4
+7d17f0017000 default file=/usr/lib64/libgcc_s-8-20210514.so.1
+7d17f0216000 default file=/usr/lib64/libgcc_s-8-20210514.so.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f0217000 default file=/usr/lib64/libgcc_s-8-20210514.so.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f0400000 default file=/usr/lib64/libzip.so.5.0 mapped=24 mapmax=14 N0=24 kernelpagesize_kB=4
+7d17f0418000 default file=/usr/lib64/libzip.so.5.0
+7d17f0618000 default file=/usr/lib64/libzip.so.5.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f0619000 default file=/usr/lib64/libzip.so.5.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f0800000 default file=/usr/lib64/libgpg-error.so.0.24.2 mapped=30 mapmax=14 N0=30 kernelpagesize_kB=4
+7d17f081f000 default file=/usr/lib64/libgpg-error.so.0.24.2
+7d17f0a1f000 default file=/usr/lib64/libgpg-error.so.0.24.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f0a20000 default file=/usr/lib64/libgpg-error.so.0.24.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f0c00000 default file=/usr/lib64/libgcrypt.so.20.2.5 mapped=38 mapmax=14 N0=38 kernelpagesize_kB=4
+7d17f0d18000 default file=/usr/lib64/libgcrypt.so.20.2.5
+7d17f0f17000 default file=/usr/lib64/libgcrypt.so.20.2.5 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17f0f19000 default file=/usr/lib64/libgcrypt.so.20.2.5 anon=5 dirty=5 mapmax=2 active=0 N0=5 kernelpagesize_kB=4
+7d17f1000000 default file=/usr/lib64/libexslt.so.0.8.20 mapped=21 mapmax=14 N0=21 kernelpagesize_kB=4
+7d17f1015000 default file=/usr/lib64/libexslt.so.0.8.20
+7d17f1215000 default file=/usr/lib64/libexslt.so.0.8.20 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f1216000 default file=/usr/lib64/libexslt.so.0.8.20 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f1400000 default file=/usr/lib64/libxslt.so.1.1.32 mapped=47 mapmax=14 N0=47 kernelpagesize_kB=4
+7d17f143f000 default file=/usr/lib64/libxslt.so.1.1.32
+7d17f163e000 default file=/usr/lib64/libxslt.so.1.1.32 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17f1640000 default file=/usr/lib64/libxslt.so.1.1.32 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f1800000 default file=/usr/lib64/libsodium.so.23.3.0 mapped=80 mapmax=14 N0=80 kernelpagesize_kB=4
+7d17f1856000 default file=/usr/lib64/libsodium.so.23.3.0
+7d17f1a56000 default file=/usr/lib64/libsodium.so.23.3.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f1a57000 default file=/usr/lib64/libsodium.so.23.3.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f1c00000 default file=/usr/lib64/libltdl.so.7.3.1 mapped=9 mapmax=14 N0=9 kernelpagesize_kB=4
+7d17f1c09000 default file=/usr/lib64/libltdl.so.7.3.1
+7d17f1e08000 default file=/usr/lib64/libltdl.so.7.3.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f1e09000 default file=/usr/lib64/libltdl.so.7.3.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f2000000 default file=/usr/lib64/libodbc.so.2.0.0 mapped=46 mapmax=14 N0=46 kernelpagesize_kB=4
+7d17f2062000 default file=/usr/lib64/libodbc.so.2.0.0
+7d17f2261000 default file=/usr/lib64/libodbc.so.2.0.0 anon=8 dirty=8 mapmax=2 active=0 N0=8 kernelpagesize_kB=4
+7d17f2269000 default
+7d17f2400000 default file=/usr/lib64/libsasl2.so.3.0.0 mapped=28 mapmax=14 N0=28 kernelpagesize_kB=4
+7d17f241c000 default file=/usr/lib64/libsasl2.so.3.0.0
+7d17f261c000 default file=/usr/lib64/libsasl2.so.3.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f261d000 default file=/usr/lib64/libsasl2.so.3.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f2800000 default file=/usr/lib64/libzstd.so.1.4.4 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17f28a2000 default file=/usr/lib64/libzstd.so.1.4.4
+7d17f2aa2000 default file=/usr/lib64/libzstd.so.1.4.4 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f2aa3000 default file=/usr/lib64/libzstd.so.1.4.4 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f2c00000 default file=/usr/lib64/libonig.so.5.0.0 mapped=48 mapmax=14 N0=48 kernelpagesize_kB=4
+7d17f2c7c000 default file=/usr/lib64/libonig.so.5.0.0
+7d17f2e7b000 default file=/usr/lib64/libonig.so.5.0.0 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17f2e7d000 default file=/usr/lib64/libonig.so.5.0.0 anon=3 dirty=3 mapped=6 mapmax=7 active=0 N0=6 kernelpagesize_kB=4
+7d17f2e83000 default
+7d17f3000000 default file=/usr/lib64/libicudata.so.60.3 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17f49a9000 default file=/usr/lib64/libicudata.so.60.3
+7d17f4ba8000 default file=/usr/lib64/libicudata.so.60.3 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f4ba9000 default
+7d17f4c00000 default file=/usr/lib64/libicuuc.so.60.3 mapped=112 mapmax=14 N0=112 kernelpagesize_kB=4
+7d17f4dae000 default file=/usr/lib64/libicuuc.so.60.3
+7d17f4fad000 default file=/usr/lib64/libicuuc.so.60.3 anon=19 dirty=19 mapmax=2 active=0 N0=19 kernelpagesize_kB=4
+7d17f4fc0000 default file=/usr/lib64/libicuuc.so.60.3 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f4fc1000 default
+7d17f5000000 default file=/usr/lib64/libicui18n.so.60.3 mapped=222 mapmax=14 N0=222 kernelpagesize_kB=4
+7d17f52b2000 default file=/usr/lib64/libicui18n.so.60.3
+7d17f54b1000 default file=/usr/lib64/libicui18n.so.60.3 anon=15 dirty=15 mapmax=2 active=0 N0=15 kernelpagesize_kB=4
+7d17f54c0000 default file=/usr/lib64/libicui18n.so.60.3 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f5600000 default file=/usr/lib64/libicuio.so.60.3 mapped=13 mapmax=14 N0=13 kernelpagesize_kB=4
+7d17f560d000 default file=/usr/lib64/libicuio.so.60.3
+7d17f580c000 default file=/usr/lib64/libicuio.so.60.3 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17f580e000 default file=/usr/lib64/libicuio.so.60.3 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f5a00000 default file=/usr/lib64/libMagickCore-6.Q16.so.7.0.0 mapped=389 mapmax=14 N0=389 kernelpagesize_kB=4
+7d17f5c76000 default file=/usr/lib64/libMagickCore-6.Q16.so.7.0.0
+7d17f5e75000 default file=/usr/lib64/libMagickCore-6.Q16.so.7.0.0 anon=17 dirty=17 mapmax=2 active=0 N0=17 kernelpagesize_kB=4
+7d17f5e86000 default file=/usr/lib64/libMagickCore-6.Q16.so.7.0.0 anon=5 dirty=5 mapped=13 mapmax=7 active=2 N0=13 kernelpagesize_kB=4
+7d17f5ec0000 default anon=3 dirty=3 mapmax=2 active=0 N0=3 kernelpagesize_kB=4
+7d17f6000000 default file=/usr/lib64/libMagickWand-6.Q16.so.7.0.0 mapped=47 mapmax=14 N0=47 kernelpagesize_kB=4
+7d17f612a000 default file=/usr/lib64/libMagickWand-6.Q16.so.7.0.0
+7d17f632a000 default file=/usr/lib64/libMagickWand-6.Q16.so.7.0.0 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17f632c000 default file=/usr/lib64/libMagickWand-6.Q16.so.7.0.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f6400000 default file=/usr/lib64/libfreetype.so.6.16.1 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17f64b5000 default file=/usr/lib64/libfreetype.so.6.16.1
+7d17f66b4000 default file=/usr/lib64/libfreetype.so.6.16.1 anon=7 dirty=7 mapmax=2 active=0 N0=7 kernelpagesize_kB=4
+7d17f66bb000 default
+7d17f6800000 default file=/usr/lib64/libX11.so.6.3.0 mapped=48 mapmax=14 active=47 N0=48 kernelpagesize_kB=4
+7d17f693d000 default file=/usr/lib64/libX11.so.6.3.0
+7d17f6b3d000 default file=/usr/lib64/libX11.so.6.3.0 anon=3 dirty=3 mapmax=2 active=0 N0=3 kernelpagesize_kB=4
+7d17f6b40000 default file=/usr/lib64/libX11.so.6.3.0 anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17f6c00000 default file=/usr/lib64/libXpm.so.4.11.0 mapped=15 mapmax=14 N0=15 kernelpagesize_kB=4
+7d17f6c12000 default file=/usr/lib64/libXpm.so.4.11.0
+7d17f6e11000 default file=/usr/lib64/libXpm.so.4.11.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f6e12000 default file=/usr/lib64/libXpm.so.4.11.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f7000000 default file=/usr/lib64/libjpeg.so.62.2.0 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17f7067000 default file=/usr/lib64/libjpeg.so.62.2.0
+7d17f7267000 default file=/usr/lib64/libjpeg.so.62.2.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f7268000 default file=/usr/lib64/libjpeg.so.62.2.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f7400000 default file=/usr/lib64/libwebp.so.7.0.2 mapped=15 mapmax=14 N0=15 kernelpagesize_kB=4
+7d17f746a000 default file=/usr/lib64/libwebp.so.7.0.2
+7d17f766a000 default file=/usr/lib64/libwebp.so.7.0.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f766b000 default file=/usr/lib64/libwebp.so.7.0.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f766c000 default
+7d17f7800000 default file=/usr/lib64/libavif.so.14.0.1 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17f781f000 default file=/usr/lib64/libavif.so.14.0.1
+7d17f7a1f000 default file=/usr/lib64/libavif.so.14.0.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f7a20000 default file=/usr/lib64/libavif.so.14.0.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f7c00000 default file=/usr/lib64/libpng16.so.16.34.0 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17f7c33000 default file=/usr/lib64/libpng16.so.16.34.0
+7d17f7e33000 default file=/usr/lib64/libpng16.so.16.34.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f7e34000 default
+7d17f8000000 default file=/usr/lib64/libz.so.1.2.11 mapped=21 mapmax=15 N0=21 kernelpagesize_kB=4
+7d17f8016000 default file=/usr/lib64/libz.so.1.2.11
+7d17f8216000 default file=/usr/lib64/libz.so.1.2.11 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f8217000 default
+7d17f8400000 default file=/usr/lib64/libsqlite3.so.0.8.6 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17f850e000 default file=/usr/lib64/libsqlite3.so.0.8.6
+7d17f870d000 default file=/usr/lib64/libsqlite3.so.0.8.6 anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17f8711000 default file=/usr/lib64/libsqlite3.so.0.8.6 anon=3 dirty=3 mapmax=2 active=0 N0=3 kernelpagesize_kB=4
+7d17f8800000 default file=/usr/lib64/libcrypto.so.1.1.1k mapped=524 mapmax=15 N0=524 kernelpagesize_kB=4
+7d17f8ab6000 default file=/usr/lib64/libcrypto.so.1.1.1k
+7d17f8cb6000 default file=/usr/lib64/libcrypto.so.1.1.1k anon=44 dirty=44 mapmax=2 active=0 N0=44 kernelpagesize_kB=4
+7d17f8ce2000 default file=/usr/lib64/libcrypto.so.1.1.1k anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17f8ce6000 default anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17f8e00000 default file=/usr/lib64/libssl.so.1.1.1k mapped=126 mapmax=14 N0=126 kernelpagesize_kB=4
+7d17f8e87000 default file=/usr/lib64/libssl.so.1.1.1k
+7d17f9086000 default file=/usr/lib64/libssl.so.1.1.1k anon=9 dirty=9 mapmax=2 active=0 N0=9 kernelpagesize_kB=4
+7d17f908f000 default file=/usr/lib64/libssl.so.1.1.1k anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17f9093000 default anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f9200000 default file=/usr/lib64/libcom_err.so.2.1 mapped=3 mapmax=14 N0=3 kernelpagesize_kB=4
+7d17f9203000 default file=/usr/lib64/libcom_err.so.2.1
+7d17f9402000 default file=/usr/lib64/libcom_err.so.2.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f9403000 default file=/usr/lib64/libcom_err.so.2.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f9600000 default file=/usr/lib64/libk5crypto.so.3.1 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17f9615000 default file=/usr/lib64/libk5crypto.so.3.1
+7d17f9814000 default file=/usr/lib64/libk5crypto.so.3.1 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17f9816000 default file=/usr/lib64/libk5crypto.so.3.1 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17f9a00000 default file=/usr/lib64/libkrb5.so.3.3 mapped=166 mapmax=14 N0=166 kernelpagesize_kB=4
+7d17f9ada000 default file=/usr/lib64/libkrb5.so.3.3
+7d17f9cda000 default file=/usr/lib64/libkrb5.so.3.3 anon=15 dirty=15 mapmax=2 active=0 N0=15 kernelpagesize_kB=4
+7d17f9ce9000 default file=/usr/lib64/libkrb5.so.3.3 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17f9e00000 default file=/usr/lib64/libgssapi_krb5.so.2.2 mapped=74 mapmax=14 N0=74 kernelpagesize_kB=4
+7d17f9e52000 default file=/usr/lib64/libgssapi_krb5.so.2.2
+7d17fa052000 default file=/usr/lib64/libgssapi_krb5.so.2.2 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17fa054000 default file=/usr/lib64/libgssapi_krb5.so.2.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fa200000 default file=/usr/lib64/libxml2.so.2.9.7 mapped=206 mapmax=14 N0=206 kernelpagesize_kB=4
+7d17fa35d000 default file=/usr/lib64/libxml2.so.2.9.7
+7d17fa55c000 default file=/usr/lib64/libxml2.so.2.9.7 anon=9 dirty=9 mapmax=2 active=0 N0=9 kernelpagesize_kB=4
+7d17fa565000 default file=/usr/lib64/libxml2.so.2.9.7 anon=1 dirty=1 active=0 N0=1 kernelpagesize_kB=4
+7d17fa566000 default anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17fa600000 default file=/usr/lib64/libsystemd.so.0.23.0 mapped=92 mapmax=14 N0=92 kernelpagesize_kB=4
+7d17fa743000 default file=/usr/lib64/libsystemd.so.0.23.0
+7d17fa942000 default file=/usr/lib64/libsystemd.so.0.23.0 anon=8 dirty=8 mapmax=2 active=0 N0=8 kernelpagesize_kB=4
+7d17fa94a000 default file=/usr/lib64/libsystemd.so.0.23.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fa94b000 default
+7d17faa00000 default file=/usr/lib64/libdl-2.28.so mapped=3 mapmax=17 N0=3 kernelpagesize_kB=4
+7d17faa03000 default file=/usr/lib64/libdl-2.28.so
+7d17fac02000 default file=/usr/lib64/libdl-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fac03000 default file=/usr/lib64/libdl-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fae00000 default file=/usr/lib64/libm-2.28.so mapped=63 mapmax=14 N0=63 kernelpagesize_kB=4
+7d17faf81000 default file=/usr/lib64/libm-2.28.so
+7d17fb180000 default file=/usr/lib64/libm-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fb181000 default file=/usr/lib64/libm-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fb200000 default file=/usr/lib64/libutil-2.28.so mapped=2 mapmax=15 N0=2 kernelpagesize_kB=4
+7d17fb202000 default file=/usr/lib64/libutil-2.28.so
+7d17fb402000 default file=/usr/lib64/libutil-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fb403000 default file=/usr/lib64/libutil-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fb600000 default file=/usr/lib64/libbz2.so.1.0.6 mapped=15 mapmax=14 N0=15 kernelpagesize_kB=4
+7d17fb610000 default file=/usr/lib64/libbz2.so.1.0.6
+7d17fb80f000 default file=/usr/lib64/libbz2.so.1.0.6 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fb810000 default file=/usr/lib64/libbz2.so.1.0.6 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fba00000 default file=/usr/lib64/libgmp.so.10.3.2 mapped=47 mapmax=14 N0=47 kernelpagesize_kB=4
+7d17fba96000 default file=/usr/lib64/libgmp.so.10.3.2
+7d17fbc95000 default file=/usr/lib64/libgmp.so.10.3.2 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17fbc97000 default file=/usr/lib64/libgmp.so.10.3.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fbe00000 default file=/usr/lib64/libpam.so.0.84.2 mapped=13 mapmax=14 N0=13 kernelpagesize_kB=4
+7d17fbe0e000 default file=/usr/lib64/libpam.so.0.84.2
+7d17fc00e000 default file=/usr/lib64/libpam.so.0.84.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fc00f000 default file=/usr/lib64/libpam.so.0.84.2 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fc200000 default file=/usr/lib64/libstdc++.so.6.0.25 mapped=286 mapmax=14 N0=286 kernelpagesize_kB=4
+7d17fc386000 default file=/usr/lib64/libstdc++.so.6.0.25
+7d17fc585000 default file=/usr/lib64/libstdc++.so.6.0.25 anon=12 dirty=12 mapmax=2 active=0 N0=12 kernelpagesize_kB=4
+7d17fc591000 default file=/usr/lib64/libstdc++.so.6.0.25 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fc592000 default anon=3 dirty=3 mapmax=2 active=0 N0=3 kernelpagesize_kB=4
+7d17fc600000 default file=/usr/lib64/liblber-2.4.so.2.10.9 mapped=13 mapmax=14 N0=13 kernelpagesize_kB=4
+7d17fc60e000 default file=/usr/lib64/liblber-2.4.so.2.10.9
+7d17fc80e000 default file=/usr/lib64/liblber-2.4.so.2.10.9 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fc80f000 default file=/usr/lib64/liblber-2.4.so.2.10.9 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fca00000 default file=/usr/lib64/libldap-2.4.so.2.10.9 mapped=31 mapmax=14 N0=31 kernelpagesize_kB=4
+7d17fca4d000 default file=/usr/lib64/libldap-2.4.so.2.10.9
+7d17fcc4c000 default file=/usr/lib64/libldap-2.4.so.2.10.9 anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17fcc4e000 default file=/usr/lib64/libldap-2.4.so.2.10.9 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fce00000 default file=/usr/lib64/libresolv-2.28.so mapped=19 mapmax=15 N0=19 kernelpagesize_kB=4
+7d17fce14000 default file=/usr/lib64/libresolv-2.28.so
+7d17fd014000 default file=/usr/lib64/libresolv-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fd015000 default file=/usr/lib64/libresolv-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fd016000 default
+7d17fd200000 default file=/usr/lib64/libcurl.so.4.5.0 mapped=110 mapmax=14 N0=110 kernelpagesize_kB=4
+7d17fd28b000 default file=/usr/lib64/libcurl.so.4.5.0
+7d17fd48b000 default file=/usr/lib64/libcurl.so.4.5.0 anon=3 dirty=3 mapmax=2 active=0 N0=3 kernelpagesize_kB=4
+7d17fd48e000 default file=/usr/lib64/libcurl.so.4.5.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fd600000 default file=/usr/lib64/librt-2.28.so mapped=7 mapmax=15 N0=7 kernelpagesize_kB=4
+7d17fd607000 default file=/usr/lib64/librt-2.28.so
+7d17fd806000 default file=/usr/lib64/librt-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fd807000 default file=/usr/lib64/librt-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fda00000 default file=/usr/lib64/libpq.so.5.13 mapped=32 mapmax=14 N0=32 kernelpagesize_kB=4
+7d17fda4e000 default file=/usr/lib64/libpq.so.5.13
+7d17fdc4e000 default file=/usr/lib64/libpq.so.5.13 anon=3 dirty=3 mapmax=2 active=0 N0=3 kernelpagesize_kB=4
+7d17fdc51000 default file=/usr/lib64/libpq.so.5.13 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fde00000 default file=/usr/lib64/libyaml-0.so.2.0.5 mapped=16 mapmax=14 N0=16 kernelpagesize_kB=4
+7d17fde1e000 default file=/usr/lib64/libyaml-0.so.2.0.5
+7d17fe01e000 default file=/usr/lib64/libyaml-0.so.2.0.5 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fe01f000 default
+7d17fe200000 default file=/usr/lib64/libc-client.so.2007 mapped=153 mapmax=14 N0=153 kernelpagesize_kB=4
+7d17fe30b000 default file=/usr/lib64/libc-client.so.2007
+7d17fe50a000 default file=/usr/lib64/libc-client.so.2007 anon=4 dirty=4 mapmax=2 active=0 N0=4 kernelpagesize_kB=4
+7d17fe50e000 default file=/usr/lib64/libc-client.so.2007 anon=5 dirty=5 mapped=7 mapmax=11 active=2 N0=7 kernelpagesize_kB=4
+7d17fe515000 default anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fe600000 default file=/usr/lib64/libcrypt.so.1.1.0 mapped=11 mapmax=15 N0=11 kernelpagesize_kB=4
+7d17fe620000 default file=/usr/lib64/libcrypt.so.1.1.0
+7d17fe81f000 default file=/usr/lib64/libcrypt.so.1.1.0 anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fe820000 default
+7d17fea00000 default file=/usr/lib64/libtidy.so.5.6.0 mapped=80 mapmax=14 N0=80 kernelpagesize_kB=4
+7d17feac7000 default file=/usr/lib64/libtidy.so.5.6.0
+7d17fecc6000 default file=/usr/lib64/libtidy.so.5.6.0 anon=27 dirty=27 mapmax=2 active=0 N0=27 kernelpagesize_kB=4
+7d17fece1000 default file=/usr/lib64/libtidy.so.5.6.0 anon=13 dirty=13 mapped=18 mapmax=14 active=5 N0=18 kernelpagesize_kB=4
+7d17fecf4000 default anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17fee00000 default file=/usr/lib64/libpthread-2.28.so mapped=27 mapmax=16 N0=27 kernelpagesize_kB=4
+7d17fee1b000 default file=/usr/lib64/libpthread-2.28.so
+7d17ff01a000 default file=/usr/lib64/libpthread-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ff01b000 default file=/usr/lib64/libpthread-2.28.so anon=1 dirty=1 active=0 N0=1 kernelpagesize_kB=4
+7d17ff01c000 default anon=1 dirty=1 active=0 N0=1 kernelpagesize_kB=4
+7d17ff200000 default file=/usr/lib64/ld-2.28.so mapped=47 mapmax=17 N0=47 kernelpagesize_kB=4
+7d17ff33d000 default anon=130 dirty=130 mapmax=2 active=0 N0=130 kernelpagesize_kB=4
+7d17ff42f000 default file=/usr/lib64/ld-2.28.so anon=1 dirty=1 mapmax=2 active=0 N0=1 kernelpagesize_kB=4
+7d17ff430000 default file=/usr/lib64/ld-2.28.so anon=2 dirty=2 mapmax=2 active=0 N0=2 kernelpagesize_kB=4
+7d17ff447000 default anon=26 dirty=26 active=0 N0=26 kernelpagesize_kB=4
+7d17ff4c7000 default file=/dev/zero\040(deleted) dirty=1 mapmax=2 N0=1 kernelpagesize_kB=4
+7d17ff4c9000 default anon=1 dirty=1 active=0 N0=1 kernelpagesize_kB=4
+7d17ff4ea000 default file=/usr/lib64/gconv/gconv-modules.cache mapped=7 mapmax=12 N0=7 kernelpagesize_kB=4
+7d17ff4f1000 default file=/usr/lib/locale/C.utf8/LC_CTYPE mapped=26 mapmax=14 N0=26 kernelpagesize_kB=4
+7d17ff544000 default anon=48 dirty=48 mapmax=2 active=0 N0=48 kernelpagesize_kB=4
+7ffe8a4a6000 default stack anon=10 dirty=10 active=1 N0=10 kernelpagesize_kB=4
+7ffe8a5c4000 default
+7ffe8a5c8000 default
