@@ -1,0 +1,57 @@
+Name:	php-fpm
+Umask:	0022
+State:	S (sleeping)
+Tgid:	1
+Ngid:	0
+Pid:	1
+PPid:	0
+TracerPid:	0
+Uid:	14784	14784	14784	14784
+Gid:	14784	14784	14784	14784
+FDSize:	64
+Groups:
+NStgid:	1
+NSpid:	1
+NSpgid:	1
+NSsid:	1
+VmPeak:	  692220 kB
+VmSize:	  692208 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   49740 kB
+VmRSS:	   49740 kB
+RssAnon:	    9156 kB
+RssFile:	   35604 kB
+RssShmem:	    4980 kB
+VmData:	   21240 kB
+VmStk:	     132 kB
+VmExe:	   17552 kB
+VmLib:	  159408 kB
+VmPTE:	    1036 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+Threads:	1
+SigQ:	0/257220
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000180014a06
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000000000000000
+CapAmb:	0000000000000000
+NoNewPrivs:	1
+Seccomp:	2
+Seccomp_filters:	1
+Speculation_Store_Bypass:	thread vulnerable
+SpeculationIndirectBranch:	always enabled
+Cpus_allowed:	ffff
+Cpus_allowed_list:	0-15
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	1928
+nonvoluntary_ctxt_switches:	139
